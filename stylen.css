@@ -1,0 +1,18 @@
+
+header{
+    display: flex;
+    gap: 40px;
+}
+button{
+    text-align: right;
+}    
+
+.berga{
+    width: 100%;
+    background-color: red;
+    height: 20px;
+    margin-bottom: 20px;
+}
+.hyvg{
+    height: 20px;
+}
